@@ -72,7 +72,7 @@ Update the fields that you want to change and submit, all the fields are mandato
 
 Go to the terminal and run `rails c`
 
-Enter `Users.all` for retrieving all the users in the database.
+Enter `User.all` for retrieving all the users in the database.
 
 
 ## Authors
