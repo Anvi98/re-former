@@ -66,7 +66,7 @@ To edit a user, go to this route:
 
 Where `:id` is the id of the user that you want to edit the informations for.
 
-Update the fields that you want to change and submit.
+Update the fields that you want to change and submit, all the fields are mandatory, otherwise an error is shown.
 
 #### Retrieve the users information
 
